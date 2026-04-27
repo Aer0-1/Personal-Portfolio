@@ -1,0 +1,18 @@
+@import './fonts.css';
+@import './tailwind.css';
+@import './theme.css';
+
+html, body {
+  height: 100%;
+  margin: 0;
+  scroll-behavior: smooth;
+  background: var(--p-bg);
+}
+
+#root {
+  height: 100%;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
