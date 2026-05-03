@@ -76,6 +76,10 @@ Make sure you have the following installed:
 
 ---
 
+5. This the live link 'https://personal-portfolio-cyan-kappa.vercel.app/'
+
+---
+
 ## 📁 Project Structure
 
 ```
